@@ -25,7 +25,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arima15&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arima15&layout=compact&theme=dark)
 
-## Hi there 👋
+### 📚 Currently Learning
+- **[CS50 Web](https://cs50.harvard.edu/web/)** – Web development with Python, Flask, SQL, and JavaScript  
+- **[The Odin Project](https://www.theodinproject.com/)** – Full-stack JavaScript & modern web development  
+- **[MOOC.fi Python](https://mooc.fi/en/)** – Deep dive into Python programming  
+
 
 <!--
 **arima15/arima15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
