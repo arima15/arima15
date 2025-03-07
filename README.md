@@ -1,4 +1,4 @@
-<img src="https://github.com/arima15/arima15/issues/1#issue-2901986855">
+<img src="https://github.com/arima15/arima15/issues/1">
 
 # Hi there, I'm Arima! 👋
 
