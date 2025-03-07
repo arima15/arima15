@@ -1,3 +1,5 @@
+<img src="https://github.com/arima15/arima15/issues/1#issue-2901986855">
+
 # Hi there, I'm Arima! 👋
 
 💻 **Junior Web Developer** | 🚀 Passionate about Programming & Learning New Technologies  
