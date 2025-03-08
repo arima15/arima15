@@ -1,4 +1,5 @@
-<img src="https://github.com/arima15/arima15/issues/1#issue-2901986855">
+![420190414-aab4798a-04ae-4def-be36-87d80f84564e](https://github.com/user-attachments/assets/cecbacad-11d8-4b09-b555-9b7dd3ff32ef)
+
 
 # Hi there, I'm Arima! 👋
 
